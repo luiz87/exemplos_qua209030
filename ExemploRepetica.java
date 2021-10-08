@@ -1,8 +1,5 @@
 import javax.swing.JOptionPane;
 
-/**
- * ExemploRepetica
- */
 public class ExemploRepetica {
     public static void main(String[] args) {
         // jogoPim();
