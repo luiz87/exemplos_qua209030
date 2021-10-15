@@ -5,7 +5,7 @@ public class Questao10 {
     // uma mensagem que diga se ela poderá
     // ou não votar este ano (não é necessário considerar o mês em que ela nasceu).
     public static void main(String[] args) {
-        Integer anoNascimento = Integer.parseInt(JOptionPane.showInputDialog("Digite seu ano de nascimento!"));
+        int anoNascimento = Integer.parseInt(JOptionPane.showInputDialog("Digite seu ano de nascimento!"));
         int idade = 2021 - anoNascimento;
         String msg = "";
         if (idade >= 16) {
