@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "w3Exemplos",
-        "ListaExercicio"
+        "ListaExercicio",
+        "projeto-jpoo/src"
     ]
 }
