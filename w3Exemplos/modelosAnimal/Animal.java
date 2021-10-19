@@ -2,10 +2,12 @@ package modelosAnimal;
 /**
  * Animal
  */
-public class Animal {
+abstract class Animal {
 
     protected int quantidadeOlhos = 1;
-    public void somAnimal() {
-        System.out.println("barulho estranho");
+    public abstract void somAnimal();
+
+    public void sleep(){
+        System.out.println("Zzz Zzz");
     }
 }
