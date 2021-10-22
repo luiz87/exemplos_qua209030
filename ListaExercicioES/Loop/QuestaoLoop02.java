@@ -1,4 +1,4 @@
-public class Questao02 {
+public class QuestaoLoop02 {
     // 2. Escreva um código que exiba uma contagem decrescente do valor 30 até o
     // valor 1
     public static void main(String[] args) {

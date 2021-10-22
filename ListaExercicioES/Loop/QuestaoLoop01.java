@@ -1,4 +1,4 @@
-public class Questao01 {
+public class QuestaoLoop01 {
     // 1. Escreva um código que imprima na tela apenas os números ímpares entre 1 e
     // 50.
     public static void main(String[] args) {
